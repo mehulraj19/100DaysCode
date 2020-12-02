@@ -15,6 +15,9 @@
 .nav-alphaColor{
     color: white;
 }
+nav:hover{
+    color: #003434
+}
 body{
     color: white;
     background-color: teal;
