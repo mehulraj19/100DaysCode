@@ -1,3 +1,20 @@
+.nav-pad{
+    padding: 15px 2.2rem;
+}
+.nav-head{
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.nav-links{
+    font-size: large;
+}
+.nav-color{
+    background-color: teal;
+}
+.nav-alphaColor{
+    color: white;
+}
 body{
     color: white;
     background-color: teal;
